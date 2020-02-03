@@ -159,7 +159,7 @@
             <div class="container">
                 <div class="logo">
                     <a href="https://plethorathemes.com/healthflex" class="brand">
-                        <img src="./healthflex_files/healthflex_logo_color.png" alt="HealthFlex">
+                        <img src="./healthflex_files/logo.png" alt="HealthFlex">
                     </a>
                 </div>      	<a title="" href="https://plethorathemes.com/healthflex/#" class="social_links"><i class="fa fa-share-alt"></i></a>
                 <div class="team_social"><a href="https://plethorathemes.com/healthflex/#" title="Twitter" target="_self"><i class="fa fa fa-twitter"></i></a><a href="https://plethorathemes.com/healthflex/#" title="Facebook" target="_self"><i class="fa fa fa-facebook"></i></a><a href="https://plethorathemes.com/healthflex/#" title="Google+" target="_self"><i class="fa fa fa-google-plus"></i></a><a href="https://plethorathemes.com/healthflex/#" title="LinkedIn" target="_self"><i class="fa fa fa-linkedin"></i></a><a href="https://plethorathemes.com/healthflex/#" title="Skype" target="_self"><i class="fa fa fa-skype"></i></a><a href="https://plethorathemes.com/healthflex/#" title="Send Us An Email" target="_self"><i class="fa fa fa-envelope"></i></a></div>
