@@ -2,59 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a5fa9cd3-cc81-401f-916d-c789ef438840" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/407134556812816" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/add-to-cart.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/analytics.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/animate.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/cart-fragments.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/conformity.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/easing.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/f(1).txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/f.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/fbevents.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/healthflex_logo_color.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/healthflex_logo_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/icon_doctor1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/icon_help_desk1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/icon_med_book_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/icon_tree_white.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/jquery-migrate.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/jquery.blockUI.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/jquery.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/jquery.ui.totop.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/js(1)" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/js.cookie.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/js_composer.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/js_composer_front.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/modernizr.custom.48287.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/owl.carousel.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/owl.carousel.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/owl.theme.default.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/parallax.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/particles.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/plethora_icons.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/scripts.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/strive-cardiology.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/strive-dna.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/strive-test.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/style(1).css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/style-39924517bc.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/style.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/theme.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/theme_custom_bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/woocommerce-add-to-cart.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/woocommerce.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/woocommerce.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/wow.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/wp-embed.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/healthflex_files/wp-emoji-release.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resources/views/jon.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/jon.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/healthflex_files/plethora_icons.css" beforeDir="false" afterPath="$PROJECT_DIR$/public/healthflex_files/plethora_icons.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/routes/web.php" beforeDir="false" afterPath="$PROJECT_DIR$/routes/web.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -213,7 +163,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1580708463418</updated>
-      <workItem from="1580708467521" duration="597000" />
+      <workItem from="1580708467521" duration="1447000" />
     </task>
     <servers />
   </component>
@@ -225,5 +175,9 @@
       <screen x="0" y="23" width="1440" height="815" />
     </state>
     <state x="38" y="263" key="com.intellij.ide.util.TipDialog/0.23.1440.815@0.23.1440.815" timestamp="1580708467235" />
+    <state x="385" y="162" width="670" height="676" key="search.everywhere.popup" timestamp="1580709709123">
+      <screen x="0" y="23" width="1440" height="815" />
+    </state>
+    <state x="385" y="162" width="670" height="676" key="search.everywhere.popup/0.23.1440.815@0.23.1440.815" timestamp="1580709709123" />
   </component>
 </project>

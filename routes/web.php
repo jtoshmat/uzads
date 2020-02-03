@@ -15,4 +15,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
+//DO NOT REMOVE THIS -- This a fix for http://my-best-doctor.uz/healthflex?wc-ajax=get_refreshed_fragments 404 page
+Route::get('healthflex', function () {
+    return 'healthflex';
+});
+
+
 Route::get('/welcome', 'TestController@welcome');
