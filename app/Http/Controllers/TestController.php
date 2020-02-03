@@ -9,7 +9,7 @@ class TestController extends Controller
 
 
 	public function welcome(){
-		return "Welcome Home";
+		return view('jon');
 
 	}
 
