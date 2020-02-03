@@ -1,0 +1,42 @@
+/*!
+Theme Name: HealthFlex
+Theme URI: http://plethorathemes.com/healthflex/
+Description: Multipurpose Medical WordPress Theme
+Version: 1.6.2
+Author: Plethora Themes
+Author URI: http://plethorathemes.com
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: theme-options, translation-ready
+Text Domain: healthflex
+*/
+
+/*
+WARNING FOR DEVs: DO NOT MODIFY TEXT DOMAIN VALUE OF THIS FILE;
+
+The styles of the theme are compiled by less.php and stored in the uploads folder.
+
+Do not alter or delete this file.
+
+*/
+
+/*
+=================================================================
+
+
+REQUIRED WORDPRESS STYLES
+(are styled by less)
+
+
+
+=================================================================
+*/
+
+.aligncenter,.alignright,.alignleft,.floatleft,.floatright,
+.textcenter,.textright,.textleft,.wp-caption,.gallery-caption,
+.wp-caption-text,.wp-smiley,blockquote,.sticky,.bypostauthor,
+.screen-reader-text {}
+
+/*
+=================================================================
+*/
